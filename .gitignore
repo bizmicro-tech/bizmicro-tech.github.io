@@ -8,3 +8,9 @@ Gemfile
 Gemfile.lock
 node_modules
 package.json
+/.idea/.gitignore
+/.idea/aws.xml
+/.idea/bizmicro-tech.github.io.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
